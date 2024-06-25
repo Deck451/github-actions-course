@@ -10,5 +10,3 @@ jobs:
         run: whoami
       - name: Run true
         run: true
-      - name: Run false
-        run: false
