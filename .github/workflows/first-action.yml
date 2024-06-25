@@ -45,3 +45,7 @@ jobs:
         run: echo "Hello World!"
       - name: my-second-step
         run: echo "Done. Bye!"
+      - name: my-third-step
+        run: |
+          echo "First output line"
+          echo "Second output line"
